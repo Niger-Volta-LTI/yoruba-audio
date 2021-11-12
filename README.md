@@ -1,4 +1,4 @@
-# yoruba-audio
+# Yorùbá Audio
 
 This repo aggregates audio/speech corpora for Yorùbá tasks, similarly to the [yoruba-text](https://github.com/Niger-Volta-LTI/yoruba-text) for text datasets. The corpora may contain aligned text or be purely unlabeled. 
 
